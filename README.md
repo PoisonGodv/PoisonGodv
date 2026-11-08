@@ -14,18 +14,17 @@ Currently building backend services and exploring agent infrastructure, MCP, and
 
 <h4>Open source contributions</h4>
 
-- &nbsp; **11 merged pull requests across 6 public repositories**;
+- &nbsp; **8 merged pull requests across 5 public repositories**;
 - &nbsp; Contributor to [Valkey](https://github.com/valkey-io/valkey)/[Redis](https://github.com/redis/redis), with contributions to database internals and command behavior;
 - &nbsp; Contributor to [ARGI](https://github.com/agentic-ai-java/argi)/[ARGI Extensions](https://github.com/agentic-ai-java/argi-extensions), an agent runtime and persistence ecosystem;
-- &nbsp; Contributor to [Apache ShenYu](https://github.com/apache/shenyu) and [new-api-zifeiyu](https://github.com/zi-fei-yu-2020/new-api-zifeiyu).
+- &nbsp; Contributor to [Apache ShenYu](https://github.com/apache/shenyu).
 
 <p>
   <a href="https://github.com/valkey-io/valkey/pulls?q=is%3Apr+author%3APoisonGodv+is%3Amerged">Valkey: #5311 · #5310</a><br>
   <a href="https://github.com/redis/redis/pulls?q=is%3Apr+author%3APoisonGodv+is%3Amerged">Redis: #16096</a><br>
   <a href="https://github.com/agentic-ai-java/argi/pulls?q=is%3Apr+author%3APoisonGodv+is%3Amerged">ARGI: #355 · #165</a><br>
   <a href="https://github.com/agentic-ai-java/argi-extensions/pulls?q=is%3Apr+author%3APoisonGodv+is%3Amerged">ARGI Extensions: #69 · #27</a><br>
-  <a href="https://github.com/apache/shenyu/pulls?q=is%3Apr+author%3APoisonGodv+is%3Amerged">Apache ShenYu: #7604</a><br>
-  <a href="https://github.com/zi-fei-yu-2020/new-api-zifeiyu/pulls?q=is%3Apr+author%3APoisonGodv+is%3Amerged">new-api-zifeiyu: #4 · #3 · #2</a>
+  <a href="https://github.com/apache/shenyu/pulls?q=is%3Apr+author%3APoisonGodv+is%3Amerged">Apache ShenYu: #7604</a>
 </p>
 
 [View all merged pull requests →](https://github.com/search?q=author%3APoisonGodv+is%3Apr+is%3Amerged&type=pullrequests)
